@@ -7,14 +7,14 @@ public class MediaAula04 {
 
         int nota1;
         int nota2;
+        
+        try (Scanner digiteNota = new Scanner(System.in)) {
+            System.out.println("Digite a nota: ");
+            nota1 = digiteNota.nextInt();
 
-        Scanner digiteNota = new Scanner(System.in);
-
-        System.out.println("Digite a nota: ");
-        nota1 = digiteNota.nextInt();
-
-        System.out.println("Digite a nota: ");
-        nota2 = digiteNota.nextInt();
+            System.out.println("Digite a nota: ");
+            nota2 = digiteNota.nextInt();
+        }
 
         float media = (nota1 + nota2)/2;
 
