@@ -1,0 +1,77 @@
+{
+    // Use o IntelliSense para saber mais sobre os atributos possíveis.
+    // Focalizar para exibir as descrições dos atributos existentes.
+    // Para obter mais informações, acesse: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch Aula01",
+            "request": "launch",
+            "mainClass": "descomplica.aula.Aula01",
+            "projectName": "Java_973ec893"
+        },
+        {
+            "type": "java",
+            "name": "Launch Aula02",
+            "request": "launch",
+            "mainClass": "descomplica.aula.Aula02",
+            "projectName": "Java_973ec893"
+        },
+        {
+            "type": "java",
+            "name": "Launch Aula03",
+            "request": "launch",
+            "mainClass": "descomplica.aula.Aula03",
+            "projectName": "Java_973ec893"
+        },
+        {
+            "type": "java",
+            "name": "Launch Aula04",
+            "request": "launch",
+            "mainClass": "descomplica.aula.Aula04",
+            "projectName": "Java_973ec893"
+        },
+        {
+            "type": "java",
+            "name": "Launch Aula05If",
+            "request": "launch",
+            "mainClass": "descomplica.aula.Aula05If",
+            "projectName": "Java_973ec893"
+        },
+        {
+            "type": "java",
+            "name": "Launch Aula05MediaIf",
+            "request": "launch",
+            "mainClass": "descomplica.aula.Aula05MediaIf",
+            "projectName": "Java_973ec893"
+        },
+        {
+            "type": "java",
+            "name": "Launch Aula05Switch",
+            "request": "launch",
+            "mainClass": "descomplica.aula.Aula05Switch",
+            "projectName": "Java_973ec893"
+        },
+        {
+            "type": "java",
+            "name": "Launch Aula06While",
+            "request": "launch",
+            "mainClass": "descomplica.aula.Aula06While",
+            "projectName": "Java_973ec893"
+        },
+        {
+            "type": "java",
+            "name": "Launch MediaAula04",
+            "request": "launch",
+            "mainClass": "descomplica.aula.MediaAula04",
+            "projectName": "Java_973ec893"
+        }
+    ]
+}
