@@ -8,5 +8,10 @@ public class Aula06While {
             System.out.println(num);
             num++;
         }
+        // executa pelo menos uma vez o codigo
+        do {
+            System.out.println(num);
+            num++; 
+        } while (num <= 5);
     }
 }
