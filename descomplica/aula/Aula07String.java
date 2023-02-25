@@ -12,5 +12,7 @@ public class Aula07String {
         
         System.out.println("Digite o seu nome: ");
         nome = teclado.next();
+        
+        System.out.println("Professor" + nome);
     }
 }
